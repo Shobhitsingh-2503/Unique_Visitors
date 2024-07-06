@@ -1,0 +1,15 @@
+.App{
+  margin: 3%;
+}
+.box{
+  display: flex;
+  width: fit-content;
+}
+tr{
+  /* border: black solid 1px; */
+  margin: 3%;
+}
+td{
+  border: black solid 1px;
+  margin: 3%;
+}
